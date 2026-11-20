@@ -1,0 +1,17 @@
+# MySQL data
+/docker/mysql/data/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.idea/
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs
+*.log
+
